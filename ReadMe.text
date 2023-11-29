@@ -1,0 +1,12 @@
+# //////////////////////////////////////////////////////////////////////////////////////////////////
+#                       Chiffrement par base - ReadMe
+# //////////////////////////////////////////////////////////////////////////////////////////////////
+
+Cette méthode chiffrement permet de chiffrer un message grâce aux coordonnées de certains caractères dans un texte.
+
+Avant le chiffrement, sélectionner le texte qui sera la clée de chiffrement et le copier dans le fichier encryption.py et decipherment.py à l'endroit indiqué.
+
+Ensuite vous pouvez lancer les programmes...et vous amusez.
+
+
+Winston10
